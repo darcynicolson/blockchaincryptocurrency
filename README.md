@@ -1,3 +1,5 @@
+# NodeJS Blockchain and Cryptocurrency example
+
 This code is originally from the Udemy course by David Joseph Katz.
 
 It is a blockchain and basic crypto currency built in nodeJS.
